@@ -2,7 +2,10 @@
 기계처럼 혼자 공부하기.
 
 1. 혼공머신 (2025/02 ~ 2025/04)
-![혼자공부하는머신러닝](https://github.com/leejunho12316/HonGongMachine/blob/main/%EA%B8%B0%ED%83%80/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EB%8B%98_logo.pnghttps://github.com/leejunho12316/HonGongMachine/blob/main/%EA%B8%B0%ED%83%80/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EC%A0%95%ED%8C%90_%ED%91%9C1-562x768.jpg)
+![혼자공부하는머신러닝](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png)
+
+
+
 
 2. Udemy_linearalgebra_LazyProgrammer (2025/02 ~ 2025/04)
 
