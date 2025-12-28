@@ -18,6 +18,7 @@
 
 ## 3. Aice Associate (2025/05 ~ 2025/06)
 <img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png" width="200" height="400"/>
+
 [AICE 홈페이지](https://aice.study/main)
 
 
