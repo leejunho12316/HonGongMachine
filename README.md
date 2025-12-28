@@ -3,8 +3,6 @@
 
 ## 1. 혼공머신 (2025/02 ~ 2025/04)
 
-![혼공머신](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EC%A0%95%ED%8C%90_%ED%91%9C1-562x768.jpg)
-
 <img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EC%A0%95%ED%8C%90_%ED%91%9C1-562x768.jpg" width="200" height="400"/>
 
 
@@ -15,31 +13,31 @@
 
 
 ## 2. Udemy_linearalgebra_LazyProgrammer (2025/02 ~ 2025/04)
-![LazyProgrammer](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/linalgpart.jpg)
+<img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/linalgpart.jpg" width="200" height="400"/>
 
 [LazyProgrammer](https://lazyprogrammer.me/new-course-math-0-1-linear-algebra-for-data-science-machine-learning/)
 
 
 
 ## 3. Aice Associate (2025/05 ~ 2025/06)
-![AICE_Associate](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png)
+<img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png" width="200" height="400"/>
 [AICE 홈페이지](https://aice.study/main)
 
 
 
 ## 4. 빅데이터 분석기사 실기 (2025/11 ~ 2025/12)
 ### 시나공 - 빅데이터분석기사 실기
-![시나공빅분기](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%EC%8B%9C%EB%82%98%EA%B3%B5_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.jpg)
+<img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%EC%8B%9C%EB%82%98%EA%B3%B5_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.jpg" width="200" height="400"/>
 
 [시나공 빅데이터분석기사 실기 교보문고](https://product.kyobobook.co.kr/detail/S000216355151)
 
 ### 퇴근후 딴짓 - Big Data Certification KR
-![퇴근후딴짓](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/BAE_%ED%87%B4%EA%B7%BC%ED%9B%84%EB%94%B4%EC%A7%93.png)
+<img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/BAE_%ED%87%B4%EA%B7%BC%ED%9B%84%EB%94%B4%EC%A7%93.png" width="200" height="400"/>
 
 [퇴근후딴짓 Kaggle](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr?resource=download)
 
 ### 데이터마님
-![데이터마님](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/DataManim_logo.png)
+<img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/DataManim_logo.png" width="200" height="400"/>
 
 [데이터마님 홈페이지](https://www.datamanim.com/intro.html)
 
