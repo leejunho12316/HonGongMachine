@@ -1,4 +1,4 @@
-# HongGoneMachine
+# HongGongMachine
 기계처럼 혼자 공부하기.
 
 ## 1. 혼공머신 (2025/02 ~ 2025/04)
