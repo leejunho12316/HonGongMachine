@@ -1,12 +1,20 @@
 # HongGongMachine
 기계처럼 혼자 공부하기.
 
+
+<br/>
+<br/>
+
+
 ## 1. 혼공머신 (2025/02 ~ 2025/04)
 
 <img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EC%A0%95%ED%8C%90_%ED%91%9C1-562x768.jpg" width="200" height="400"/>
 
 [혼공머신 교보문고](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png)
 
+
+<br/>
+<br/>
 
 
 ## 2. Udemy_linearalgebra_LazyProgrammer (2025/02 ~ 2025/04)
@@ -15,12 +23,18 @@
 [LazyProgrammer](https://lazyprogrammer.me/new-course-math-0-1-linear-algebra-for-data-science-machine-learning/)
 
 
+<br/>
+<br/>
+
 
 ## 3. Aice Associate (2025/05 ~ 2025/06)
 <img src="https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png" width="200" height="400"/>
 
 [AICE 홈페이지](https://aice.study/main)
 
+
+<br/>
+<br/>
 
 
 ## 4. 빅데이터 분석기사 실기 (2025/11 ~ 2025/12)
@@ -39,6 +53,9 @@
 
 [데이터마님 홈페이지](https://www.datamanim.com/intro.html)
 
+
+<br/>
+<br/>
 
 
 ## 5. 코딩 테스트 합격자 되기 (2025/02 ~ 진행중)
