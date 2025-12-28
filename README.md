@@ -43,3 +43,4 @@
 ## 5. 코딩 테스트 합격자 되기 (2025/02 ~ 진행중)
 ![코딩테스트합격자되기](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/cote.jpg)
 
+[코딩 테스트 합격자 되기 교보문고](https://product.kyobobook.co.kr/detail/S000210881884)
