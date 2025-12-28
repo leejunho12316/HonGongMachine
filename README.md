@@ -1,24 +1,25 @@
 # HongGoneMachine
 기계처럼 혼자 공부하기.
 
-1. 혼공머신 (2025/02 ~ 2025/04)
-![혼공머신](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png)
+## 1. 혼공머신 (2025/02 ~ 2025/04)
 
-https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png
+![혼공머신](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B0%9C%EC%A0%95%ED%8C%90_%ED%91%9C1-562x768.jpg)
+
+[혼공머신 교보문고](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png)
 
 
-2. Udemy_linearalgebra_LazyProgrammer (2025/02 ~ 2025/04)
+## 2. Udemy_linearalgebra_LazyProgrammer (2025/02 ~ 2025/04)
 ![LazyProgrammer](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/linalgpart.jpg)
 
-https://lazyprogrammer.me/new-course-math-0-1-linear-algebra-for-data-science-machine-learning/
+[LazyProgrammer](https://lazyprogrammer.me/new-course-math-0-1-linear-algebra-for-data-science-machine-learning/)
 
 
 
-4. Aice Associate (2025/05 ~ 2025/06)
+## 3. Aice Associate (2025/05 ~ 2025/06)
 ![AICE_Associate](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/AICE_Associate.png)
 https://aice.study/main
 
-6. 빅데이터 분석기사 실기 (2025/11 ~ 2025/12)
+## 4. 빅데이터 분석기사 실기 (2025/11 ~ 2025/12)
 ![시나공빅분기](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/%EC%8B%9C%EB%82%98%EA%B3%B5_%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC_%EC%8B%A4%EA%B8%B0.jpg)
 시나공 빅데이터분석기사 실기
 https://product.kyobobook.co.kr/detail/S000216355151
@@ -32,6 +33,6 @@ https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr?resource=downlo
 Big Data Certification KR
 
 
-7. 코딩 테스트 합격자 되기 (2025/02 ~ 진행중)
+## 5. 코딩 테스트 합격자 되기 (2025/02 ~ 진행중)
 ![코딩테스트합격자되기](https://github.com/leejunho12316/HonGongMachine/blob/main/Others/cote.jpg)
 
