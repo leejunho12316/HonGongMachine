@@ -1,5 +1,5 @@
 # HongGongMachine
-기계처럼 혼자 공부하기.
+공부 모음 레포지토리
 
 
 <br/>
