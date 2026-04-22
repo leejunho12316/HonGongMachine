@@ -1,0 +1,80 @@
+Index: 백준/2178. 미로탐색.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/백준/2178. 미로탐색.py b/백준/2178. 미로탐색.py
+new file mode 100644
+--- /dev/null	(date 1775778584608)
++++ b/백준/2178. 미로탐색.py	(date 1775778584608)
+@@ -0,0 +1,45 @@
++from collections import deque
++
++N,M = map(int, input().split())
++
++graph = []
++for _ in range(N):
++    graph.append(list(map(int, input())))
++
++def print_graph():
++    for i in range(N):
++        print(graph[i])
++    print('===================')
++
++print_graph()
++
++def BFS(x,y):
++    queue = deque()
++    queue.append((x,y))
++
++    while queue:
++        print(queue)
++        x, y = queue.popleft()
++
++        for i in range(4):
++            if i == 0: nx, ny = x - 1, y #왼쪽
++            if i == 1: nx, ny = x + 1, y #오른쪽
++            if i == 2: nx, ny = x, y - 1  # 밑
++            if i == 3: nx, ny = x, y + 1  # 위
++
++            if nx<0 or nx>=N or ny<0 or ny>=N:
++                continue
++
++            if graph[nx][ny] == 0:
++                continue
++
++            if graph[nx][ny] == 1:
++                graph[nx][ny] = graph[x][y] + 1
++                queue.append((nx, ny))
++
++
++        print_graph()
++
++#세번째 시도에 왜 (0,0)을 다시 시도했고, 다시 시도햇음에도 불구하고 값이 변하지 않았으며, 오른쪽 밑 끝까지 가지 않은 상태에서 왜 끝났는지?
++
++BFS(0,0)
+\ No newline at end of file
+Index: .idea/HonGongMachine.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\" />\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/HonGongMachine.iml b/.idea/HonGongMachine.iml
+--- a/.idea/HonGongMachine.iml	(revision e664fc26a355db1f5f422d2e0404a447671a1a93)
++++ b/.idea/HonGongMachine.iml	(date 1775776458886)
+@@ -1,8 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <module type="PYTHON_MODULE" version="4">
+   <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.venv" />
++    </content>
++    <orderEntry type="jdk" jdkName="Python 3.14 (HonGongMachine)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
